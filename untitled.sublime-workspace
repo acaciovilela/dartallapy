@@ -1,0 +1,412 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Email",
+				"EmailInput\tclass"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"Te",
+				"TextInput\tclass"
+			],
+			[
+				"User",
+				"UserChangeForm\tclass"
+			],
+			[
+				"align-items-",
+				"align-items-stretch \tBootstrap 4 Class"
+			],
+			[
+				"align-ite",
+				"align-items-center \tBootstrap 4 Class"
+			],
+			[
+				"just",
+				"justify-content-between \tBootstrap 4 Class"
+			],
+			[
+				"p",
+				"p-3 \tBootstrap 4 Class"
+			],
+			[
+				"rounde",
+				"rounded-circle \tBootstrap 4 Class"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"is",
+				"is_valid\tfunction"
+			],
+			[
+				"default",
+				"default\tparam"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "dtluser/views.py",
+			"settings":
+			{
+				"buffer_size": 781,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dtluser/forms.py",
+			"settings":
+			{
+				"buffer_size": 1977,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dtluser/templates/user/edit.html",
+			"settings":
+			{
+				"buffer_size": 1124,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dtluser/urls.py",
+			"settings":
+			{
+				"buffer_size": 235,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/rocker/server/www/dartallapy",
+		"/home/rocker/server/www/dartallapy/dtluser",
+		"/home/rocker/server/www/dartallapy/dtluser/templates",
+		"/home/rocker/server/www/dartallapy/dtluser/templates/user",
+		"/home/rocker/server/www/dartallapy/templates",
+		"/home/rocker/server/www/dartallapy/templates/admin",
+		"/home/rocker/server/www/dartallapy/templates/includes"
+	],
+	"file_history":
+	[
+		"/home/rocker/server/www/dartallapy/dtluser/templates/user/profile.html",
+		"/home/rocker/server/www/dartallapy/dtluser/templates/user/edit.html",
+		"/home/rocker/server/www/dartallapy/dtluser/templates/user/register.html",
+		"/home/rocker/server/www/dartallapy/dtluser/forms.py",
+		"/home/rocker/.local/lib/python3.6/site-packages/django/contrib/auth/forms.py",
+		"/home/rocker/.local/lib/python3.6/site-packages/django/contrib/admin/forms.py",
+		"/home/rocker/server/www/dartallapy/templates/includes/header.html",
+		"/home/rocker/server/www/dartallapy/dtluser/urls.py",
+		"/home/rocker/server/www/dartallapy/dtluser/models.py",
+		"/home/rocker/server/www/dartallapy/templates/base.html",
+		"/home/rocker/server/www/dartallapy/dtluser/admin.py",
+		"/home/rocker/server/www/dartallapy/dtluser/views.py",
+		"/home/rocker/server/www/dartallapy/dtluser/templates/registration/profile.html",
+		"/home/rocker/server/www/dartallapy/dartallapy/urls.py",
+		"/home/rocker/server/www/dartallapy/dartallapy/wsgi.py",
+		"/home/rocker/server/www/dartallapy/dtluser/templates/registration/password_reset_complete.html",
+		"/home/rocker/server/www/dartallapy/dtluser/templates/registration/password_change_form.html",
+		"/home/rocker/server/www/dartallapy/dtluser/templates/registration/password_reset_done.html",
+		"/home/rocker/server/www/dartallapy/dtluser/templates/registration/password_reset_confirm.html",
+		"/home/rocker/server/www/dartallapy/dtluser/templates/registration/password_reset_form.html",
+		"/home/rocker/server/www/dartallapy/dartallapy/settings.py",
+		"/home/rocker/server/www/dartallapy/dtluser/templates/registration/password_change_done.html",
+		"/home/rocker/server/www/dartallapy/templates/admin/base.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 99.0,
+		"where_history":
+		[
+			"/home/rocker/server/www/dartallapy/dtlauth"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".id",
+			" class=\"col-md-2\">\n\t\t\n\t</di",
+			"dict"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".id_for_label"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "dtluser/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 781,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								137,
+								137
+							]
+						],
+						"settings":
+						{
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "dtluser/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1977,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1682,
+								1682
+							]
+						],
+						"settings":
+						{
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 821.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "dtluser/templates/user/edit.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								887,
+								887
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 255.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "dtluser/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								202,
+								202
+							]
+						],
+						"settings":
+						{
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 278.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
