@@ -39,6 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'dtlauth.apps.DtlauthConfig',
+    'dtlscrapy.apps.DtlscrapyConfig',
+    'polls.apps.PollsConfig',
 ]
 
 MIDDLEWARE = [

@@ -23,4 +23,6 @@ urlpatterns = [
     path('auth/', include('dtlauth.urls')),
     path('accounts/', include('django.contrib.auth.urls')),
     path('user/', include('dtluser.urls')),
+    path('scrapy/', include('dtlscrapy.urls')),
+    path('polls/', include('polls.urls')),
 ]

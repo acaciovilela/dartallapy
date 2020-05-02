@@ -7,7 +7,9 @@
     </button>
     <div class="collapse navbar-collapse" id="dtlNavbar">
         <ul class="navbar-nav mr-auto">
-
+            <li class="nav-item">
+                <a href="{% url 'scrapy:index' %}" class="nav-link">Scrapy</a>
+            </li>
         </ul>
         {% if user.is_authenticated %}
         <ul class="navbar-nav">
