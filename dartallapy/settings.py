@@ -31,7 +31,6 @@ ALLOWED_HOSTS = ['127.0.0.1']
 
 INSTALLED_APPS = [
     'dtluser.apps.DtluserConfig',
-    'dtlperson.apps.DtlpersonConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -39,6 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'dtlauth.apps.DtlauthConfig',
+    'dtlperson.apps.DtlpersonConfig',
+    'dtlcustomer.apps.DtlcustomerConfig',
     'dtlscrapy.apps.DtlscrapyConfig',
     'polls.apps.PollsConfig',
 ]

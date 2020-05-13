@@ -25,4 +25,5 @@ urlpatterns = [
     path('user/', include('dtluser.urls')),
     path('scrapy/', include('dtlscrapy.urls')),
     path('polls/', include('polls.urls')),
+    path('customer/', include('dtlcustomer.urls')),
 ]

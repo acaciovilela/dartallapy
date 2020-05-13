@@ -42,13 +42,6 @@ class Contact(models.Model):
         verbose_name = "Contato"
         verbose_name_plural = "Contatos"
 
-class Customer(Person):
-    def __str__(parent):
-        return parent.name
-    class Meta:
-        verbose_name = "Cliente"
-        verbose_name_plural = "Clientes"
-
 class Supplier(Person):
     def __str__(parent):
         return parent.name
